@@ -2,7 +2,13 @@
 
 [🧪Experimental] Extend juce::BrowserComponent for stronger TypeScript support
 
-## Example
+## ✨ Features
+
+- Output detailed type file
+  - [x] `withNativeFunction` (id only)
+- JSON-based type definitions for parameters and other events (no yet)
+
+## ⛳ Examples
 
 Source/PluginEditor.h
 
